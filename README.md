@@ -1,7 +1,7 @@
 # go_eagle_service simple
 
 >
-> 简单体验来go-zero框架生成项目
+> 简单体验了go-zero框架生成项目
 >
 
 # build
@@ -43,7 +43,7 @@ Content-Length: 24
 {"message":"Hello, you"}
 ```
 
-# go evn
+# go env
 
 ```shell
 GO111MODULE=""
